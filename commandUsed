@@ -1,0 +1,863 @@
+su subha
+    2  su
+    3  su
+    4  ls
+    5  exit
+    6  ls
+    7  touch sad.txt
+    8  ls
+    9  ll
+   10  exit
+   11  cd ..
+   12  cd..
+   13  cd ..
+   14  clear
+   15  cd ..
+   16  sudo su -
+   17  sudo su
+   18  yum update -y
+   19  clear
+   20  ls
+   21  cd ..
+   22  su
+   23  su subha
+   24  cd
+   25  pwd
+   26  ls
+   27  clear
+   28  pwd
+   29  tree
+   30  touch /root/subha/Desktop/subha123
+   31  ls
+   32  tree
+   33  clear
+   34  tree
+   35  cd ..
+   36  ls
+   37  touch /root/subha/Desktop/subha123
+   38  pwd
+   39  cd root/
+   40  ls
+   41  su subha
+   42  ls
+   43  cd snap/
+   44  tree
+   45  cd
+   46  su subha
+   47  ls
+   48  clear
+   49  tree
+   50  cd ..
+   51  tree
+   52  touch /root/subha/Desktop/King/subhamishra
+   53  touch subha/Desktop/King/subhamishra
+   54  tree
+   55  touch /root/subha/Desktop/King/subhamishra11
+   56  touch /root/subha/Desktop/subhami123
+   57  pwd
+   58  cd ..
+   59  pwd
+   60  touch /root/subha/Desktop/King/subha123
+   61  touch subha/Desktop/King/subha123
+   62  pwd
+   63  ls
+   64  cd
+   65  clear
+   66  tree
+   67  su
+   68  tree
+   69  ls
+   70  clear
+   71  ls
+   72  mv file5usingtouch file200
+   73  ls
+   74  rm file200 
+   75  ls
+   76  rmdir dic1
+   77  rmdir -rf dir1
+   78  rmdir -f dir1
+   79  rm -rf dir1
+   80  ls
+   81  rm -rf dir1
+   82  ls
+   83  rm -rf dic1
+   84  ls
+   85  rmdir dic3
+   86  rm -rf dic3
+   87  ls
+   88  rm -rf file3usingtouch  file4usingtouch file6usingnano file7usingvi 
+   89  ls
+   90  clear
+   91  ls
+   92  cd ..
+   93  cd King/
+   94  clear
+   95  history
+   96  clear
+   97  cat >> subha
+   98  ls
+   99  cat s
+  100  cat subha 
+  101  clear
+  102  rm subha
+  103  ls
+  104  clear
+  105  ping google.com
+  106  ping www.google.com
+  107  pwd
+  108  cd
+  109  pwd
+  110  tree
+  111  ls
+  112  su subha
+  113  clear
+  114  tree
+  115  clear
+  116  ls
+  117  cd Desktop/
+  118  ls
+  119  cd King/
+  120  ls
+  121  cp file2usingtouch  dic1
+  122  tree
+  123  cp -r dict file1dic
+  124  cp -r dic1 file1dic
+  125  tree
+  126  clear
+  127  tree
+  128  mv file2usingtouch dic3
+  129  tree
+  130  mv file1usingcat file1dic
+  131  tree
+  132  mv file1dic dic3
+  133  clear
+  134  ls
+  135  cd dic3
+  136  mv file1dic dic1
+  137  ls
+  138  cd dic1
+  139  ls
+  140  cd file1dic/
+  141  ls
+  142  clear
+  143  tree
+  144  cdcd
+  145  cd
+  146  tree
+  147  ls
+  148  cd snap/
+  149  ls
+  150  pwd
+  151  cd ..
+  152  pwd
+  153  tree
+  154  cd file1dic/
+  155  clear
+  156  su subha
+  157  tree
+  158  su subha
+  159  pwd
+  160  cd
+  161  pwd
+  162  cd ..
+  163  pwd
+  164  cd 
+  165  su subha
+  166  ls
+  167  pwd
+  168  cd .
+  169  ls
+  170  pwd
+  171  clear
+  172  su subha
+  173  pwd
+  174  tree
+  175  clear
+  176  tree
+  177  cat > /Desktop/King/subha1234
+  178  cat > Desktop/King/subha1234
+  179  cat  Desktop/King/subha1234
+  180  pwd
+  181  cd ..
+  182  pwd
+  183  cd 
+  184  cd ..
+  185  pwd
+  186  ls
+  187  cd home/
+  188  ls
+  189  cd subha
+  190  ls
+  191  cd..
+  192  cd ..
+  193  pwd
+  194  cd ..
+  195  pwd
+  196  cd ..
+  197  pwd
+  198  touch //home/subha/Desktop/Rajamishra
+  199  tree
+  200  cd home/subha/Desktop
+  201  tree
+  202  clear
+  203  touch Desktop/King/Mishraji1
+  204  touch /Desktop/King/Mishraji1
+  205  cd ..
+  206  touch /Desktop/King/Mishraji1
+  207  touch Desktop/King/Mishraji1
+  208  tree
+  209  //home/subha/Desktop/King/Mishraji2
+  210  touch //home/subha/Desktop/King/Mishraji2
+  211  tree
+  212  clear
+  213  tree
+  214  cd snap/
+  215  cd snapd-desktop-integration/
+  216  ls
+  217  cd 14/
+  218  ls
+  219  cd Desktop/
+  220  ls
+  221  tree
+  222  cd
+  223  clear
+  224  pwd
+  225  cd home
+  226  cd /home
+  227  cd subha
+  228  cd Desktop
+  229  ls
+  230  tree
+  231  cd ..
+  232  tree
+  233  mkdir Desktop/King/dir12/dir13
+  234  mkdir Desktop/King/dir12
+  235  tree
+  236  clear
+  237  tree
+  238  cp King/subhadic fun
+  239  cp Desktop/king/subhadic fun
+  240  cp subhadic fun
+  241  cp subha1234 fun
+  242  cp /Desktop/King/subha1234 /fun
+  243  cp /Desktop/King/subha1234 fun
+  244  cd Desktop/
+  245  cd King/
+  246  ls
+  247  cat subha1234
+  248  cp subha1234 //home/subha/fun
+  249  tree
+  250  cd ..
+  251  cd..
+  252  cd ..
+  253  tree
+  254  clear
+  255  tree
+  256  cp Desktop/King/subhamishra fun
+  257  tree
+  258  mv Desktop/King/subhadic fun
+  259  tree
+  260  mv fun/fund fun/funday
+  261  clear
+  262  tree
+  263  rm -rf Desktop/King/Mishraji1
+  264  tree
+  265  clear
+  266  history
+  267  clear
+  268  cd
+  269  clear
+  270  ls
+  271  ls /
+  272  cd /home
+  273  ls
+  274  cd ..
+  275  ls /temp
+  276  ls /home
+  277  ls
+  278  cd
+  279  ls
+  280  ls /home
+  281  mkdir /home/subha/Desktop/iami
+  282  ls
+  283  tree
+  284  cat /etc.passwd
+  285  cat /etc/passwd
+  286  clear
+  287  grep root /etc/passwd
+  288  less /etc/passwd
+  289  more /etc/passwd
+  290  clear
+  291  head /etc/passwd
+  292  tail /etc/passwd
+  293  head -3  /etc/passwd
+  294  clear
+  295  cat >sorti
+  296  sort sorti
+  297  rm sorti
+  298  ls
+  299  clear
+  300  head -3  /etc/passw
+  301  ls
+  302  cd //home/subha
+  303  ls
+  304  cd Desktop/
+  305  ls
+  306  cd
+  307  ls
+  308  cd //
+  309  ls
+  310  cd home/
+  311  ls
+  312  cd subha/
+  313  ls
+  314  cd Desktop/
+  315  ls
+  316  rm -rf *
+  317  ls
+  318  cd
+  319  touch dir1
+  320  rm dir1
+  321  mkdir dir1
+  322  touch file1
+  323  ls
+  324  ls -l
+  325  clear
+  326  ls
+  327  tree
+  328  touch /root/King/subhami1234
+  329  touch /King/subhami1234
+  330  touch /home/Desktop/King/subhami1234
+  331  pwd
+  332  touch home/subha/Desktop/subhami1234
+  333  touch  /home/subha/Desktop/subhami1234
+  334  tree
+  335  cd ..
+  336  pwd
+  337  tree
+  338  touch  /home/subha/subhami1234567
+  339  tree
+  340  clear
+  341  ls
+  342  rm subhami1234567 
+  343  ls
+  344  su subha
+  345  git branch
+  346  git checkout -b dev
+  347  git status
+  348  git checkout master
+  349  git checkout main
+  350  git checkout -b master
+  351  git branch
+  352  git checkout dev
+  353  /bin/python3 /home/subha/Desktop/git-demo/subhagit.py
+  354  git status
+  355  git add subhagit.py
+  356  git status
+  357  git commit -m "added subhagit.py"
+  358  git config
+  359  git commit -m "added subhagit.py"
+  360  git status
+  361  git status
+  362  lss
+  363  ls
+  364  mv subhagit.txt subhagit.py
+  365  ls
+  366  cat subhagit.py 
+  367  host
+  368  clear
+  369  hostname
+  370  hostname -l
+  371  host -l
+  372  clear
+  373  hostname
+  374  ifconfig
+  375  apt install net-tools
+  376  ifconfig
+  377  ipconfig -i
+  378  yum
+  379  yum update
+  380  clear
+  381  cat /etc/passwd
+  382  cat /etc/passwd/cups
+  383  clear
+  384  apt get update
+  385  yum install httpd
+  386  apt get install httpd
+  387  yum update
+  388  apt update
+  389  apt install httpd
+  390  yum install httpd -y
+  391  clean
+  392  clear
+  393  man ls
+  394  man yum
+  395  man apt
+  396  clear
+  397  man a
+  398  man -a
+  399  man l
+  400  man ls
+  401  clear
+  402  cd ..
+  403  ls
+  404  apt update
+  405  apt install git
+  406  git --version
+  407  clear
+  408  -lls
+  409  ks
+  410  ls
+  411  cd Desktop/
+  412  mkdir git-demo
+  413  cd git-demo/
+  414  ls
+  415  touch subhagit.txt
+  416  ls
+  417  git init
+  418  ls
+  419  ls -a
+  420  cat .git
+  421  cd .git
+  422  ls
+  423  cd ..
+  424  code
+  425  sudo cde
+  426  sudo code
+  427  code --no-sandbox
+  428  clear
+  429  code
+  430  git status
+  431  code
+  432  code -n
+  433  code -r
+  434  su
+  435  git status
+  436  git statsus
+  437  git status
+  438  git ingo
+  439  git info
+  440  git help
+  441  git diff
+  442  git log
+  443  clear
+  444  git status
+  445  git checkout dev
+  446  git checkout -b dev
+  447  git status
+  448  git chechout master
+  449  git checkout master
+  450  ls
+  451  git status
+  452  git restore
+  453  git restore subhagit.py
+  454  git status
+  455  ls
+  456  git status
+  457  git log
+  458  rm subhagit.py
+  459  ls
+  460  git log
+  461  git add 
+  462  git status
+  463  git add
+  464  git add subhagit.py
+  465  git status
+  466  git commit -m "Deleted"
+  467  git status
+  468  git log
+  469  git revert 1394f8a091080ed57c95c6b44f14065ec1810d63 
+  470  ls
+  471  git status
+  472  git branch
+  473  touch new.txt
+  474  ls
+  475  clear
+  476  git status
+  477  git add new.txt
+  478  git status
+  479  git commit -m "added new text file"
+  480  git status
+  481  ls
+  482  git checkout dev
+  483  ls
+  484  git checkout master
+  485  git checkout dev
+  486  git checkout master
+  487  clear
+  488  git status
+  489  git checkout dev
+  490  new_dev.txt
+  491  touch new_dev.txt
+  492  git add new_dev.txt
+  493  git commit -m "added new dev text file"
+  494  git status
+  495  ls
+  496  git checkout master
+  497  clear
+  498  git status
+  499  git checkout dev
+  500  git checkout -b new_dev
+  501  git checkout master
+  502  git checkout -b new_mas
+  503  cd ..
+  504  mkdir github
+  505  cd github/
+  506  git clone https://github.com/SubhaMishra1998/git-demo.git
+  507  rm subhagit.py
+  508  ls
+  509  git status
+  510  touch subha.txt
+  511  ls
+  512  git add subha.txt
+  513  git status
+  514  git commit -m "added subha's message"
+  515  git sttaus
+  516  git sttus
+  517  git status
+  518  git push origin main
+  519  clear
+  520  git remote -v
+  521  git push origin main
+  522  git status
+  523  git help
+  524  git diff
+  525  git fetch
+  526  git diff
+  527  git pull origin master
+  528  git pull orgin main
+  529  git pull origin main
+  530  apt update
+  531  apt install yum
+  532  apt get-install yum
+  533  ls
+  534  grep -h "pet"*
+  535  vi pet1
+  536  ls
+  537  cat pet1
+  538  grep -h "subha" pet1
+  539  grep -v "subha" pet1
+  540  grep -c "subha" pet1
+  541  vi pet1
+  542  ls
+  543  grep -c "subha" pet1
+  544  grep -v "subha" pet1
+  545  grep -h "subha" pet1
+  546  vi pet1
+  547  grep -c "subha" pet1
+  548  bg
+  549  grep "whoami" /etc/passwd
+  550  cd ..
+  551  grep "whoami" /etc/passwd
+  552  pwd
+  553  cd etc/
+  554  grep "whoami" passwd
+  555  grep -h "whoami" passwd
+  556  ls
+  557  cat shells
+  558  cleat
+  559  tree
+  560  cd
+  561  tre
+  562  tree
+  563  cd ..
+  564  tree
+  565  cat etc/passwd
+  566  cat etc/shells
+  567  grep -h "whoami" etc/passwd
+  568  grep -h 'whoami' etc/passwd
+  569  grep -h 'subha' etc/passwd
+  570  clear
+  571  whoami
+  572  grep $root  /etc/passwd
+  573  grep $ROOT  /etc/passwd
+  574  grep $USER  /etc/passwd
+  575  cd /home
+  576  ls
+  577  cd /subha
+  578  cd /subha/
+  579  cd subha/
+  580  cd Downloads/
+  581  ls
+  582  cat linux-commands-handbook.pdf 
+  583  launch gnome terminal
+  584  Launch Gnome Terminal
+  585  evince linux-commands-handbook.pdf 
+  586  dpkg -l
+  587  dpkg -l |grep apache*
+  588  dpkg -l |grep apg
+  589  cd
+  590  sudo apt get update
+  591  sudo apt-get update
+  592  sudo apt-get install yum
+  593  version
+  594  --version
+  595  lsb_release -a
+  596  lear
+  597  clear
+  598  man
+  599  man man
+  600  cleae
+  601  clear
+  602  find . -name'*a'
+  603  clear
+  604  pwd
+  605  cd ..
+  606  pwd
+  607  cd /home/subha/Desktop/
+  608  ls
+  609  cd github/
+  610  la
+  611  ls
+  612  cd git-demo/
+  613  ls
+  614  ln subha.txt raja.txt
+  615  ls
+  616  ln -s subha.txt rajalite.txt
+  617  ls
+  618  cat subha.txt
+  619  vi raja.txt
+  620  ls
+  621  cat subha.txt
+  622  vi rajalite.txt 
+  623  cat subha.txt
+  624  rm subha.txt
+  625  ls
+  626  cat rajalite.txt 
+  627  rm rajalite.txt 
+  628  ls
+  629  gzip subhagit.py >subhazip.gz
+  630  ls
+  631  gzip raja.txt
+  632  ls
+  633  gunzip subhagit.py.gz 
+  634  ls
+  635  cat subhagit.py
+  636  cat subhagit.gz
+  637  cat raja.txt.gz 
+  638  rm subhazip.gz 
+  639  ls
+  640  clear
+  641  ls
+  642  gzip subhagit
+  643  gzip subhagit.py
+  644  ls
+  645  cat subhagit.py.gz 
+  646  echo "subha"
+  647  tail
+  648  pwd
+  649  tail //etc/passwd
+  650  head //etc/passwd
+  651  clear
+  652  less subhagit.py.gz 
+  653  vi test.txt
+  654  less test.txt 
+  655  df
+  656  type
+  657  fg
+  658  jobs
+  659  df
+  660  chown subha subha.txt
+  661  ls -l
+  662  chmod 777 subha.txt
+  663  ls -l
+  664  grep s*
+  665  cd
+  666  clear
+  667  cd
+  668  ls
+  669  cd /etc/passwd
+  670  cd //etc/passwd
+  671  cd //
+  672  ls
+  673  cd etc/
+  674  ls
+  675  cd passwd
+  676  cat passwd
+  677  grep -h subha/etc/passwd
+  678  grep -h subha/passwd
+  679  cd
+  680  cd //home
+  681  cd
+  682  cd..
+  683  cd ..
+  684  ls
+  685  cd home/
+  686  ls
+  687  touch tet1 pet1 pet2 tat1
+  688  ls
+  689  git help
+  690  shell
+  691  ash
+  692  bash
+  693  git show
+  694  cd..
+  695  cd ..
+  696  ls
+  697  cd gitd
+  698  cd git-demo/
+  699  ls
+  700  git status
+  701  git show
+  702  clear
+  703  power off
+  704  shut down
+  705  sudo sutdown
+  706  sudo shutdown
+  707  shutdown -c
+  708  ls
+  709  git sttaus
+  710  status
+  711  git status
+  712  cd Desktop/
+  713  cd git-demo/
+  714  ls
+  715  ls -a
+  716  git sttaus
+  717  git status
+  718  git branch
+  719  ls
+  720  git checkout new_dev
+  721  ls
+  722  git checkout dev
+  723  ls
+  724  git checkout new_dev
+  725  ls
+  726  touch morning
+  727  ls
+  728  git checkout dev
+  729  git merge new_dev
+  730  ls
+  731  git remote -v
+  732  clear
+  733  git beanch
+  734  git branch
+  735  ls
+  736  git checkout master
+  737  ls
+  738  touch morning1.txt
+  739  ls
+  740  git checkout dev
+  741  ls
+  742  docker ps
+  743  history
+  744  su subha
+  745  docker run hello-world
+  746  su
+  747  docker image
+  748  clear
+  749  docker version
+  750  docker ps
+  751  docker images
+  752  su subha
+  753  history
+  754  su subha
+  755  docker login
+  756  docker ps
+  757  su subha
+  758  docker login
+  759  cd subha
+  760  su subha
+  761  docker images
+  762  docker run myimage
+  763  docker run hello-world
+  764  docker rmi "myimage" -f
+  765  docker run myimage:1.01
+  766  su subha
+  767  docker ps
+  768  clear
+  769  docker images
+  770  docker ps
+  771  clear
+  772  docker run ubuntu
+  773  docker run -it ubuntu
+  774  docker ps
+  775  docker ps -a
+  776  docker start 5320f78bceb3 
+  777  ls
+  778  docker start 36a1c3af5b92 
+  779  ls
+  780  cleat
+  781  clear
+  782  docker ps -a
+  783  docker images
+  784  docker rmi ubuntu
+  785  docker rmi ubuntu -f
+  786  docker rmi ubuntu:latest -f
+  787  docker rmi 216c552ea5ba
+  788  docker rmi 216c552ea5ba -f
+  789  dokcke run ubuntu
+  790  docker run ubuntu
+  791  docker run -it ubuntu
+  792  docker ps 
+  793  docker ps -a
+  794  docker start 4d886cf5f993 
+  795  docker commit -m "added Subha" 4d886cf5f993 subha_ubuntu
+  796  docker images
+  797  docker run dockerimage:1.0
+  798  clear
+  799  mv DockerFile2 mkdir  /home/subha/Desktop/docker2
+  800  mkdir  /home/subha/Desktop/docker2
+  801  mv DockerFile2 mkdir  /home/subha/Desktop/docker2
+  802  mv DockerFile2   /home/subha/Desktop/docker2
+  803  ls
+  804  cat DockerFile2
+  805  docker container prune -f
+  806  docker ps
+  807  docker rmi $(docker image -q) -f
+  808  docker images
+  809  docker images -q
+  810  docker rmi $(docker images -q) -f
+  811  docker images
+  812  clear
+  813  docker version
+  814  ls
+  815  rmdir Dockerfile
+  816  cd ..
+  817  ls
+  818  cd Docker/
+  819  ls
+  820  cd ..
+  821  rmdir Docker/
+  822  rmdir Docker/ -f
+  823  rmdir Docker -f
+  824  rm -rf Docker/
+  825  ls
+  826  cat docker2/
+  827  cd docker2/
+  828  ls
+  829  cd ..
+  830  rm -rf docker2
+  831  ls
+  832  clear
+  833  history
+  834  clear
+  835  docker run -it ubuntu
+  836  docker ps
+  837  docker commit -m "added doc.txt file" a1af2ed31262 my-ubuntu
+  838  docker images
+  839  l
+  840  ls
+  841  cd dock
+  842  mkdir doc
+  843  cd doc
+  844  cat >> subha
+  845  cat subha
+  846  ls
+  847  docker build -t img-subha .
+  848  tree
+  849  cd ..
+  850  tree
+  851  clear
+  852  ls
+  853  cd docs
+  854  cd doc
+  855  ls
+  856  ls -a
+  857  docker build -t img-subha .
+  858  ls
+  859  docker build -t img-subha .
+  860  docker build -t img-subha /home/subha/Desktop/doc
+  861  docker images
+  862  docker run my-image:1.01
+  863  history
